@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "UITabbarItem-CustomBadge",
-            path: "UITabbarItem-CustomBadge",
+            path: "UITabbarItem+CustomBadge",
             publicHeadersPath: "."
         )
     ]
